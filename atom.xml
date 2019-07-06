@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wyjcode.github.io/"/>
-  <updated>2019-07-03T02:00:07.061Z</updated>
+  <updated>2019-07-06T04:22:17.772Z</updated>
   <id>https://wyjcode.github.io/</id>
   
   <author>
@@ -17,20 +17,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>newpapername</title>
-    <link href="https://wyjcode.github.io/2019/07/03/newpapername/"/>
-    <id>https://wyjcode.github.io/2019/07/03/newpapername/</id>
-    <published>2019-07-03T01:55:52.000Z</published>
-    <updated>2019-07-03T02:00:07.061Z</updated>
+    <title>CCF-201509-4-高速公路(强连通分量)</title>
+    <link href="https://wyjcode.github.io/2019/07/06/CCF-201509-4-%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF-%E5%BC%BA%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F/"/>
+    <id>https://wyjcode.github.io/2019/07/06/CCF-201509-4-高速公路-强连通分量/</id>
+    <published>2019-07-06T04:03:34.264Z</published>
+    <updated>2019-07-06T04:22:17.772Z</updated>
     
-    <content type="html"><![CDATA[<p>你好</p>]]></content>
+    <content type="html"><![CDATA[<p>##问题描述<br>　　某国有n个城市，为了使得城市间的交通更便利，该国国王打算在城市之间修一些高速公路，由于经费限制，国王打算第一阶段先在部分城市之间修一些单向的高速公路。<br>　　现在，大臣们帮国王拟了一个修高速公路的计划。看了计划后，国王发现，有些城市之间可以通过高速公路直接（不经过其他城市）或间接（经过一个或多个其他城市）到达，而有的却不能。如果城市A可以通过高速公路到达城市B，而且城市B也可以通过高速公路到达城市A，则这两个城市被称为便利城市对。<br>　　国王想知道，在大臣们给他的计划中，有多少个便利城市对。</p><p>##输入格式<br>　　输入的第一行包含两个整数n, m，分别表示城市和单向高速公路的数量。<br>　　接下来m行，每行两个整数a, b，表示城市a有一条单向的高速公路连向城市b。</p><p>##输出格式<br>　　输出一行，包含一个整数，表示便利城市对的数量。</p><p>##样例输入<br>5 5<br>1 2<br>2 3<br>3 4<br>4 2<br>3 5</p><p>##样例输出<br>3<br>代码：</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;你好&lt;/p&gt;
-
+        &lt;p&gt;##问题描述&lt;br&gt;　　某国有n个城市，为了使得城市间的交通更便利，该国国王打算在城市之间修一些高速公路，由于经费限制，国王打算第一阶段先在部分城市之间修一些单向的高速公路。&lt;br&gt;　　现在，大臣们帮国王拟了一个修高速公路的计划。看了计划后，国王发现，有些城市之间可以通过高
       
     
     </summary>
